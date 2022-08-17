@@ -27,7 +27,12 @@
 
 # Working Demo:
 >![](https://github.com/PrachiPatel15/WhatsApp-Chat-Analyser/blob/main/analysis-1.png)
-a <br />
+<br />
+<br />
 >![](https://github.com/PrachiPatel15/WhatsApp-Chat-Analyser/blob/main/analysis-2.png)
+<br />
+<br />
 >![](https://github.com/PrachiPatel15/WhatsApp-Chat-Analyser/blob/main/analysis-3.png)
+<br />
+<br />
 >![](https://github.com/PrachiPatel15/WhatsApp-Chat-Analyser/blob/main/analysis-4.png)

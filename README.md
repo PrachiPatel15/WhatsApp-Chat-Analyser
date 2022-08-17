@@ -1,17 +1,16 @@
-## WhatsApp Chat Analyser
+## WhatsApp Chat Analyser: Project Overview
 ### A streamlit app to analyse your WhatsApp Chats
-
 __Demo Link:__ https://wca-prachi.herokuapp.com/
 
 # Code and Resources Used
 - ***Python Version:*** 3.9
-- ***Packages:*** pandas, numpy, matplotlib, seaborn, streamlit, requests
+- ***Packages:*** pandas, matplotlib, seaborn, streamlit, requests
 - ***For Web Framework Requirements:*** ```pip install -r requirements.txt```
 
-### Aim:
+# Aim:
 * To analyse the statistics of any group chat or any individual chats
 
-### This App includes:
+# This App includes:
 * Top Statistics
    * Total Messages
    * Total Words

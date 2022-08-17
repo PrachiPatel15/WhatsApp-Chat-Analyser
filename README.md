@@ -2,6 +2,7 @@
 - To analyse the statistics of any group chat or any individual chats
 - A streamlit app to analyse your WhatsApp Chats
 - __Demo Link:__ https://wca-prachi.herokuapp.com/
+- In order to analyse any chat you need to export the text file in "Browse File" section
 
 # Code and Resources Used
 - ***Python Version:*** 3.9
@@ -23,5 +24,3 @@
 * Most Busy User
 * Most Common Words
 * Emoji Analysis
-
-

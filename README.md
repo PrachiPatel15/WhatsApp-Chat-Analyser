@@ -3,6 +3,11 @@
 
 __Demo Link:__ https://wca-prachi.herokuapp.com/
 
+# Code and Resources Used
+- ***Python Version:*** 3.9
+- ***Packages:*** pandas, numpy, matplotlib, seaborn, streamlit, requests
+- ***For Web Framework Requirements:*** ```pip install -r requirements.txt```
+
 ### Aim:
 * To analyse the statistics of any group chat or any individual chats
 
@@ -19,5 +24,7 @@ __Demo Link:__ https://wca-prachi.herokuapp.com/
   * Most Busy Month
 * Weekly Activity Map
 * Most Busy User
-* Most COmmon Words
+* Most Common Words
 * Emoji Analysis
+
+

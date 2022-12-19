@@ -1,7 +1,6 @@
 ## WhatsApp Chat Analyser: Project Overview
 - To analyse the statistics of any group chat or any individual chats
 - A streamlit app to analyse your WhatsApp Chats
-- __Demo Link:__ https://wca-prachi.herokuapp.com/
 - In order to analyse any chat you need to export the text file in "Browse File" section
 
 # Code and Resources Used
